@@ -1,0 +1,10 @@
+{
+  "list": [
+    {
+      "_id": "62d7d086c9920d52c1b5c063",
+      "hosts": 3,
+      "expected_instances": 4,
+      "enabled_services": 5
+    }
+  ]
+}
